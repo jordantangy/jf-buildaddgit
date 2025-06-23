@@ -5,7 +5,7 @@ issues:
   # the default server, configured by the "jfrog config add" command is used.
   serverID: jordanta-main
 
-  trackerName: JIRA-23456 - commit message test
+  trackerName: JIRA-3456 - commit message test
   regexp: ([A-Z]+)-(\d+)
   keyGroupIndex: 1
   summaryGroupIndex: 2
